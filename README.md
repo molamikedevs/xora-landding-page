@@ -1,8 +1,29 @@
-# React + Vite
+# 🚀 Xora Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Xora Landing Page](https://i.imgur.com/MJh6U5A.png)
 
-Currently, two official plugins are available:
+🔗 **Live Demo:** [Xora Landing Page](https://xora-landding-page.onrender.com/)  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📌 Overview  
+
+Xora Landing Page is a sleek and modern **React-based** web page designed to showcase products, services, or businesses with an engaging user experience. The page is built with a focus on **smooth animations, responsive design, and high performance**.  
+
+---
+
+## 🛠 Tech Stack  
+
+- **React 17** – Core UI framework  
+- **React Scroll** – Smooth scrolling effects  
+- **React CountUp** – Animated number counters  
+- **React SlideDown** – Expanding and collapsing UI effects  
+- **Clsx** – Utility for conditionally joining class names  
+
+---
+
+## 🚀 Getting Started  
+
+### 1️⃣ Clone the Repository  
+
+```bash
+git clone https://github.com/your-username/xora-landing-page.git
+cd xora-landing-page
